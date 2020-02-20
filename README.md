@@ -7,3 +7,7 @@ This repository contains code for the [Deep Learning from Scratch](http://shop.o
 - [.NET Core 3.0 SDK](https://dotnet.microsoft.com/download)
 - [Anaconda](https://www.anaconda.com/distribution/)
 - [Jupyter .NET Kernel](https://github.com/dotnet/interactive#install)
+
+## Original Python Code
+
+[https://github.com/SethHWeidman/DLFS_code](https://github.com/SethHWeidman/DLFS_code)
